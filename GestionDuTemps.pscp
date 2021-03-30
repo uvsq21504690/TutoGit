@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConteXtorStudio Version="StudioReco V1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XsdStudio.xsd">
+	<PROCESSUS>
+		<PROCESS Name="GLOBAL" Key="NoKey" Comment="Global Processus">
+			<_DECLAREVAR>
+				<STRUCTUREDON Name="GLOBAL" />
+			</_DECLAREVAR>
+			<SCRIPTS />
+			<RESOURCES />
+		</PROCESS>
+	</PROCESSUS>
+	<APPLICATIONS>
+		<APPLI Name="GestionDuTemps" CtxtId="10385634-d08f-42fc-ac76-bf95bacab1cc" Nature="WEB3" TechnoSDK="V3" Sync="250">
+			<CAPTURE Name="APPLI_GestionDuTemps_1" CtxtId="1" Techno="WEB" />
+			<CRITERE>
+				<DOMAIN Scan="Part"><![CDATA[safeyrproject.com]]></DOMAIN>
+			</CRITERE>
+			<_DECLAREVAR>
+				<STRUCTUREDON Name="GestionDuTemps" />
+			</_DECLAREVAR>
+			<_ECRANS />
+			<PATH><![CDATA[https://safeyrproject.com/user/60192035c4d5c5079c1d32db]]></PATH>
+		</APPLI>
+	</APPLICATIONS>
+</ConteXtorStudio>
