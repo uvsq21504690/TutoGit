@@ -101,5 +101,7 @@
 			<_ECRANS />
 		</PROCESS>
 	</PROCESSUS>
-	<APPLICATIONS />
+	<APPLICATIONS>
+		<include href="app/GestionDuTemps.pscp" xpointer="xpointer(//APPLI)" />
+	</APPLICATIONS>
 </ConteXtorStudio>
